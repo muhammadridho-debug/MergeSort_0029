@@ -43,3 +43,9 @@ void output()
     }
     cout << endl;
 }
+
+int main()
+{
+    input();
+    output();
+}
